@@ -16,7 +16,7 @@ h2,
 }
 
 .container {
-  width: 75%;
+  width: 600px;
   height: auto;
   text-align: center;
   align-items: center;
@@ -35,4 +35,26 @@ h2,
 #avatar {
   margin-top: 75px;
   border-radius: 50%;
+}
+
+
+@media(max-width: 765px) {
+
+  .container {
+    width: 75%;
+  }
+
+  h2,
+.info {
+  font-size: 20px;
+}
+
+.info {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+  #avatar {
+    width: 150px;
+  }
 }
