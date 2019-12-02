@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactSocialCard/static/css/main.d6140f67.chunk.css",
+    "main.js": "/reactSocialCard/static/js/main.806a823f.chunk.js",
+    "main.js.map": "/reactSocialCard/static/js/main.806a823f.chunk.js.map",
+    "runtime-main.js": "/reactSocialCard/static/js/runtime-main.77ba4080.js",
+    "runtime-main.js.map": "/reactSocialCard/static/js/runtime-main.77ba4080.js.map",
+    "static/js/2.cc67de9a.chunk.js": "/reactSocialCard/static/js/2.cc67de9a.chunk.js",
+    "static/js/2.cc67de9a.chunk.js.map": "/reactSocialCard/static/js/2.cc67de9a.chunk.js.map",
+    "index.html": "/reactSocialCard/index.html",
+    "precache-manifest.d179186d7aa3170694d2a18a4dc0ee07.js": "/reactSocialCard/precache-manifest.d179186d7aa3170694d2a18a4dc0ee07.js",
+    "service-worker.js": "/reactSocialCard/service-worker.js",
+    "static/css/main.d6140f67.chunk.css.map": "/reactSocialCard/static/css/main.d6140f67.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ba4080.js",
+    "static/js/2.cc67de9a.chunk.js",
+    "static/css/main.d6140f67.chunk.css",
+    "static/js/main.806a823f.chunk.js"
+  ]
+}
